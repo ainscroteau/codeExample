@@ -1,0 +1,32 @@
+Z:\CIS218 - MPrescott\Week 3\TeddyAttack\TeddyAttack\TeddyAttack\obj\x86\Debug\TeddyAttack.csprojResolveAssemblyReference.cache
+Z:\CIS218 - MPrescott\Week 3\TeddyAttack\TeddyAttack\TeddyAttack\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\CIS218 - MPrescott\Week 3\TeddyAttack\TeddyAttack\TeddyAttack\bin\x86\Debug\Content\Arial20.xnb
+Z:\CIS218 - MPrescott\Week 3\TeddyAttack\TeddyAttack\TeddyAttack\bin\x86\Debug\Content\burger.xnb
+Z:\CIS218 - MPrescott\Week 3\TeddyAttack\TeddyAttack\TeddyAttack\bin\x86\Debug\Content\explosion.xnb
+Z:\CIS218 - MPrescott\Week 3\TeddyAttack\TeddyAttack\TeddyAttack\bin\x86\Debug\Content\frenchfries.xnb
+Z:\CIS218 - MPrescott\Week 3\TeddyAttack\TeddyAttack\TeddyAttack\bin\x86\Debug\Content\teddybear.xnb
+Z:\CIS218 - MPrescott\Week 3\TeddyAttack\TeddyAttack\TeddyAttack\bin\x86\Debug\TeddyAttack.exe
+Z:\CIS218 - MPrescott\Week 3\TeddyAttack\TeddyAttack\TeddyAttack\bin\x86\Debug\TeddyAttack.pdb
+Z:\CIS218 - MPrescott\Week 3\TeddyAttack\TeddyAttack\TeddyAttack\obj\x86\Debug\TeddyAttack.exe
+Z:\CIS218 - MPrescott\Week 3\TeddyAttack\TeddyAttack\TeddyAttack\obj\x86\Debug\TeddyAttack.pdb
+Z:\CIS218 - MPrescott\Week 4\TeddyAttack\TeddyAttack\TeddyAttack\bin\x86\Debug\Content\Arial20.xnb
+Z:\CIS218 - MPrescott\Week 4\TeddyAttack\TeddyAttack\TeddyAttack\bin\x86\Debug\Content\burger.xnb
+Z:\CIS218 - MPrescott\Week 4\TeddyAttack\TeddyAttack\TeddyAttack\bin\x86\Debug\Content\explosion.xnb
+Z:\CIS218 - MPrescott\Week 4\TeddyAttack\TeddyAttack\TeddyAttack\bin\x86\Debug\Content\frenchfries.xnb
+Z:\CIS218 - MPrescott\Week 4\TeddyAttack\TeddyAttack\TeddyAttack\bin\x86\Debug\Content\teddybear.xnb
+Z:\CIS218 - MPrescott\Week 4\TeddyAttack\TeddyAttack\TeddyAttack\bin\x86\Debug\TeddyAttack.exe
+Z:\CIS218 - MPrescott\Week 4\TeddyAttack\TeddyAttack\TeddyAttack\bin\x86\Debug\TeddyAttack.pdb
+Z:\CIS218 - MPrescott\Week 4\TeddyAttack\TeddyAttack\TeddyAttack\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\CIS218 - MPrescott\Week 4\TeddyAttack\TeddyAttack\TeddyAttack\obj\x86\Debug\TeddyAttack.exe
+Z:\CIS218 - MPrescott\Week 4\TeddyAttack\TeddyAttack\TeddyAttack\obj\x86\Debug\TeddyAttack.pdb
+Z:\CIS218 - MPrescott\Week 4\TeddyAttack - V2\TeddyAttack\TeddyAttack\bin\x86\Debug\Content\Arial20.xnb
+Z:\CIS218 - MPrescott\Week 4\TeddyAttack - V2\TeddyAttack\TeddyAttack\bin\x86\Debug\Content\burger.xnb
+Z:\CIS218 - MPrescott\Week 4\TeddyAttack - V2\TeddyAttack\TeddyAttack\bin\x86\Debug\Content\explosion.xnb
+Z:\CIS218 - MPrescott\Week 4\TeddyAttack - V2\TeddyAttack\TeddyAttack\bin\x86\Debug\Content\frenchfries.xnb
+Z:\CIS218 - MPrescott\Week 4\TeddyAttack - V2\TeddyAttack\TeddyAttack\bin\x86\Debug\Content\teddybear.xnb
+Z:\CIS218 - MPrescott\Week 4\TeddyAttack - V2\TeddyAttack\TeddyAttack\bin\x86\Debug\Content\teddyProjectile.xnb
+Z:\CIS218 - MPrescott\Week 4\TeddyAttack - V2\TeddyAttack\TeddyAttack\bin\x86\Debug\TeddyAttack.exe
+Z:\CIS218 - MPrescott\Week 4\TeddyAttack - V2\TeddyAttack\TeddyAttack\bin\x86\Debug\TeddyAttack.pdb
+Z:\CIS218 - MPrescott\Week 4\TeddyAttack - V2\TeddyAttack\TeddyAttack\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\CIS218 - MPrescott\Week 4\TeddyAttack - V2\TeddyAttack\TeddyAttack\obj\x86\Debug\TeddyAttack.exe
+Z:\CIS218 - MPrescott\Week 4\TeddyAttack - V2\TeddyAttack\TeddyAttack\obj\x86\Debug\TeddyAttack.pdb

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Arial20.spritefont</Source>
+      <Name>Arial20</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\CIS218 - MPrescott\Week 4\TeddyAttack - V2\TeddyAttack\TeddyAttack\bin\x86\Debug\Content\Arial20.xnb</Output>
+      <Time>2015-04-07T10:22:22.3807846-04:00</Time>
+    </Item>
+    <Item>
+      <Source>burger.png</Source>
+      <Name>burger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\CIS218 - MPrescott\Week 4\TeddyAttack - V2\TeddyAttack\TeddyAttack\bin\x86\Debug\Content\burger.xnb</Output>
+      <Time>2015-04-07T10:22:22.387785-04:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\CIS218 - MPrescott\Week 4\TeddyAttack - V2\TeddyAttack\TeddyAttack\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2015-04-07T10:22:22.3957854-04:00</Time>
+    </Item>
+    <Item>
+      <Source>frenchfries.png</Source>
+      <Name>frenchfries</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\CIS218 - MPrescott\Week 4\TeddyAttack - V2\TeddyAttack\TeddyAttack\bin\x86\Debug\Content\frenchfries.xnb</Output>
+      <Time>2015-04-07T10:22:22.4047859-04:00</Time>
+    </Item>
+    <Item>
+      <Source>teddybear.png</Source>
+      <Name>teddybear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\CIS218 - MPrescott\Week 4\TeddyAttack - V2\TeddyAttack\TeddyAttack\bin\x86\Debug\Content\teddybear.xnb</Output>
+      <Time>2015-04-07T10:22:22.4107863-04:00</Time>
+    </Item>
+    <Item>
+      <Source>teddyProjectile.png</Source>
+      <Name>teddyProjectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\CIS218 - MPrescott\Week 4\TeddyAttack - V2\TeddyAttack\TeddyAttack\bin\x86\Debug\Content\teddyProjectile.xnb</Output>
+      <Time>2015-04-21T11:11:42.5541307-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{994AFC57-11A3-4E7F-8EF4-71EE8EE43C79}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>Z:\CIS218 - MPrescott\Week 4\TeddyAttack - V2\TeddyAttack\TeddyAttackContent\</RootDirectory>
+      <LoggerRootDirectory>Z:\CIS218 - MPrescott\Week 4\TeddyAttack - V2\TeddyAttack\TeddyAttack\</LoggerRootDirectory>
+      <IntermediateDirectory>Z:\CIS218 - MPrescott\Week 4\TeddyAttack - V2\TeddyAttack\TeddyAttack\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>Z:\CIS218 - MPrescott\Week 4\TeddyAttack - V2\TeddyAttack\TeddyAttack\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-03-23T09:47:22.0001706-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
